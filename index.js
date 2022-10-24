@@ -15,6 +15,12 @@ app.get("/allcourses", (req, res) => {
   res.send(courses);
 });
 
+app.get("/course/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleCourse = courses.find((course) => course.id === id);
+  res.send(singleCourse);
+});
+
 app.listen(port, () => {
   console.log("server running on port", port);
 });
