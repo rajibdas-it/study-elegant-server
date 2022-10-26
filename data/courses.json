@@ -2,51 +2,143 @@
   {
     "id": 1,
     "title": "The Web Developer Bootcamp 2022",
-    "descriptions": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+    "shortDes": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+    "descriptions": "Fun fact: all websites use HTML — even this one. Its a fundamental part of every web developers toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers. Learn about HTML elements and structure, the building blocks of websites. Learn all the syntax you need to create tables in your HTML documents. Write clearer, more accessible HTML using Semantic HTML tags. You’ll find learning CSS essential in styling websites. Web developers use it to build on basic HTML and add personality to plain text pages. This course helps you expand your coding foundation and gives you CSS interactive practice to start adding colors and background images or editing layouts so you can create your very own, unique stylized web pages. JavaScript is a popular programming language used for building web applications, among many other things. you will learn about basic JavaScript, ES6, regular expressions, basic data structures, Object Oriented Programming, and functional programming. This course helps you gain an in-depth knowledge of concepts such as Express.js, Node Packet Manager (NPM), shrink-wrap, NPM Vet, REST, Express.js with MongoDB, and SQLite CRUD operations. This Node JS training focuses on the essential concepts of Node JS and provides hands-on experience in building an HTTP server.",
     "rating": "4.4",
     "price": "15",
-    "img": "https://i.ibb.co/y6jbBLc/bootcamp-web-dev.png"
+    "img": "https://i.ibb.co/y6jbBLc/bootcamp-web-dev.png",
+    "TopicCover": [
+      "CSS 3",
+      "Bootstrap 4",
+      "Javascript ES6",
+      "DOM Manipulation",
+      "Git, GitHub and Version Control",
+      "Node.js",
+      "Express.js",
+      "EJS",
+      "APIs",
+      "MongoDB",
+      "Firebase",
+      "React.js",
+      "Deployment with GitHub Pages, Heroku and MongoDB Atlas",
+      "HTML 5"
+    ]
   },
   {
     "id": 2,
     "title": "Modern HTML & CSS From The Beginning",
-    "descriptions": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+    "shortDes": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+    "descriptions": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs. The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started.",
     "rating": "4.7",
     "price": "20",
-    "img": "https://i.ibb.co/LCMsYs7/html-css.png"
+    "img": "https://i.ibb.co/LCMsYs7/html-css.png",
+    "TopicCover": [
+      "How Websites Work",
+      "Visual Studio Code Setup, Shortcuts, Live Server & Emmet",
+      "HTML5 Semantic Layout",
+      "CSS Fundamentals",
+      "Responsive Design With Media Queries",
+      "CSS Units - rem, em, vh, vw, etc",
+      "Flexbox",
+      "CSS Grid",
+      "Animation with Keyframes & Transitions",
+      "CSS Variables",
+      "Sass Pre-compiler with portfolio project",
+      "Full Projects & Mini Projects",
+      "Website Deployment to Shared Hosting & Netlify With Git",
+      "Much More"
+    ]
   },
 
   {
     "id": 3,
     "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
-    "descriptions": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+    "shortDes": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+    "descriptions": "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This course includes...",
     "rating": "4.5",
     "price": "20",
-    "img": "https://i.ibb.co/7YqRJHW/mern.png"
+    "img": "https://i.ibb.co/7YqRJHW/mern.png",
+    "TopicCover": [
+      "Building an extensive backend API with Node.js & Express",
+      "Protecting routes/endpoints with JWT (JSON Web Tokens)",
+      "Extensive API testing with Postman",
+      "Integrating React with our backend in an elegant way, creating a great workflow",
+      "Building our frontend to work with the API",
+      "Using Redux for app state management",
+      "Creating reducers and actions for our resources",
+      "Creating many container components that integrate with Redux",
+      "Testing with the Redux Chrome extension"
+    ]
   },
   {
     "id": 4,
     "title": "Python and Django Full Stack Web Developer Bootcamp",
-    "descriptions": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+    "shortDes": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+    "descriptions": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! We will teach you the latest technologies for building great web applications with Python 3 and Django! we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. ",
     "rating": "4.5",
     "price": "20",
-    "img": "https://i.ibb.co/LQ1Rv5z/python-django.png"
+    "img": "https://i.ibb.co/LQ1Rv5z/python-django.png",
+    "TopicCover": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "Bootstrap 3 and 4",
+      "Document Object Model",
+      "Python",
+      "Django Basics",
+      "Django Templates",
+      "Django Forms",
+      "Django Admin Customization",
+      "ORM",
+      "Class Based Views",
+      "REST APIs",
+      "User Authentication"
+    ]
   },
 
   {
     "id": 5,
     "title": "PHP MVC Framework CodeIgniter Tutorial for Beginners Project",
-    "descriptions": "Learn how to use the Most Popular PHP MVC Framework and create the best applications, easily, securely and fast.",
+    "shortDes": "Learn how to use the Most Popular PHP MVC Framework and create the best applications, easily, securely and fast.",
+    "descriptions": "Then this course will speed up the process by allowing you to learn how to use the most popular PHP framework in the planet, CodeIgniter. Coding in PHP or any other language can be time consuming, especially for common tasks. If you want to be a head of the competition and get paid more, then using a FRAMEWORK is the way to do. ",
     "rating": "4.6",
     "price": "15",
-    "img": "https://i.ibb.co/fxs1brd/codeigniter.png"
+    "img": "https://i.ibb.co/fxs1brd/codeigniter.png",
+    "TopicCover": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "OOP in PHP",
+      "Security",
+      "Form validation",
+      "Database configurations",
+      "Database queries (CRUD)"
+    ]
   },
   {
     "id": 6,
     "title": "Spring MVC For Beginners - Build Java Web App",
-    "descriptions": "Learn Spring MVC Framework with a Hands-on Step by Step Approach building a Todo Management Application!",
+    "shortDes": "Learn Spring MVC Framework with a Hands-on Step by Step Approach building a Todo Management Application!",
+    "descriptions": "Developing your first Spring MVC Web Application is fun. In this course, you will learn the basics of Spring MVC developing a Basic Todo Management Application with Login and Logout functionalities. This course would be a perfect first step as an introduction to Java Web Application Development. You will be using Spring (Dependency Management), Spring MVC, Spring Security (Authentication and Authorization), BootStrap (Styling Pages), Maven (dependencies management), Eclipse (IDE) and Tomcat Web Server.",
     "rating": "4.5",
     "price": "20",
-    "img": "https://i.ibb.co/52NsWkS/javaspring.png"
+    "img": "https://i.ibb.co/52NsWkS/javaspring.png",
+    "TopicCover": [
+      "Basic HTML5",
+      "Basic CSS3",
+      "Javascript",
+      "Java",
+      "DispatcherServlet",
+      "Basic Todo Management Application with Login/Logout",
+      "Model, Controllers, ViewResolver and Filters",
+      "Forms - DataBinding, Validation",
+      "Annotation based approach - @RequestParam, @PathVariable, @ModelAttribute, @SessionAttributes etc",
+      "Bootstrap to style the page",
+      "Spring Security",
+      "Internationalization",
+      "Exception Handling",
+      "Basic REST Services"
+    ]
   }
 ]
